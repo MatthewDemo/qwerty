@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308474566321",
+    "project_id": "qwertyproj",
+    "storage_bucket": "qwertyproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308474566321:android:394bd15e64c8746d41f490",
+        "android_client_info": {
+          "package_name": "com.qwertyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308474566321-6kjl11k2t7l6rao3nj9b39r5tkp517mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgj9jMJfILQaKWxzvvqOOd1UUNbi8rbJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308474566321-6kjl11k2t7l6rao3nj9b39r5tkp517mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
